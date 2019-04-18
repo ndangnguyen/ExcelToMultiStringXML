@@ -1,0 +1,1 @@
+xcopy /y /e /s python27.dll %SystemRoot%\SysWOW64 > NUL
